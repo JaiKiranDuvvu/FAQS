@@ -1,0 +1,47 @@
+age >= 58 ^
+sex >0  ^
+cp > 2 ^
+trestbps >135 ^
+chol > 350
+
+Max of Age	77
+Min of Age	29
+
+Max of sex	1	male
+Min of sex	0	female
+
+Max of cp	4
+Min of cp	1
+
+Max of trestbps	200
+Min of trestbps	94
+
+Max of chol	564
+Min of chol	126
+
+Max of fbs	1
+Min of fbs	0
+
+Max of restecg	2
+Min of restecg	0
+
+Max of thalach	202
+Min of thalach	71
+
+Max of exang	1
+Min of exang	0
+
+Max of oldpeak	6.2
+Min of oldpeak	0
+
+Max of slope	3
+Min of slope	1
+
+Max of ca	3
+Min of ca	0
+
+Max of thal	7
+Min of thal	3
+
+Max of num	4
+Min of num	0
